@@ -1,21 +1,30 @@
-## BossTimer
+## Syflora
 ![앱 로고]()
 
-RPG 게임의 몬스터가 재생성 되는 시간을 설정하고 알림으로 알려주는 앱 입니다.
+관리자가 관리하는 꽃을 미리 사전주문 및 구매 하는 앱 제작을 진행하였습니다.
 
 ## 작업 기간
-### 2024/08/21 ~ 2024/08/25
+### 2024/09/07 ~ 2024/09/25
 
 ## 기능
-- 몬스터의 재생성 되는 시간을 추가하고 관리합니다.  
+**[사용자]**
+- 부여받은 코드를 통한 로그인 기능  
 
-- 몬스터의 재생성 되는 시간을 설정한 시간에 따라 주기적으로 업데이트 합니다.  
+- 상품 사전주문 및 구매 요청 기능
 
-- 몬스터 재생성 시간 5분 전 사용자의 기기로 알림을 보내줍니다.  
+- 주문 현황에 따른 알림 기능
 
-- 몬스터 재생성 알림을 카카오톡 메시지를 통해 다른 사람들에게 공유합니다.  
 
-- 사용자가 알림 메시지 내용을 설정하고 수정합니다.  
+**[관리자]**
+- 사전 주문에 따라 상품에 대한 정보를 전송하는 기능
+
+- 고객이 구매확정한 상품에 대해 구매거절/입금확인 기능
+
+- 관리자의 정보를 관리하는 기능
+
+- 고객 정보를 추가/수정 관리하는 기능
+
+- 상품을 추가하고 관리하는 기능
 
 ## 스크린샷
 ![스크린샷]()
@@ -26,22 +35,19 @@ RPG 게임의 몬스터가 재생성 되는 시간을 설정하고 알림으로 
    - [App Architecture 패턴](https://developer.android.com/topic/architecture/intro): (UI Layer - Domain Layer - Data Layer)
      
 - Jetpack
-  - DataStore: 키-값 형태로 데이터를 저장할 수 있는 데이터 저장 솔루션입니다.
   - ViewModel: UI의 상태값을 관리하며 UI의 이벤트들을 처리합니다.
+  - Paging3: 로컬 데이터베이스나 네트워크에서 가져온 데이터를 페이징하여 데이터를 처리합니다.
+  - Room: SQL 기능을 이용하여 앱 내 데이터베이스를 이용합니다.
   - Navigation: 화면 구성 및 화면전환에 관련된 다양한 기능을 제공합니다.
   - Compose: 기존의 XML레이아웃을 이용하지 않고, Kotlin 코드를 통해 UI 화면을 제작합니다.
   - [Hilt](https://dagger.dev/hilt/): 의존성 주입을 통해 보일러플레이트 코드를 줄여줍니다.
 
 - Firebase
   - Firestore: Firebase에서 제공하는 NoSql 기반의 클라우드 데이터베이스를 이용할 수 있는 기능을 제공합니다.
+  - Firebase Storage: 이미지/동영상을 저장 관리하도록 도와주는 저장소 입니다.
   - Firebase Cloud Messaging: 메시지를 안정적으로 무료 전송할 수 있는 크로스 플랫폼 메시징 솔루션입니다.
+  - Firebase Functions: 사용자의 요청에 따른 백엔드 동작을 수행합니다.
 
-- [Jsoup](https://jsoup.org/): HTML 및 XML 작업을 간단하게 만드는 라이브러리로 데이터 파싱, 추출 등의 다양한 기능을 이용할 수 있습니다.
+- Coil: 네트워크로부터 이미지를 로드합니다.
 
-- [KakaoTalk](https://developers.kakao.com/):
-   - 카카오톡 공유: 사용자가 카카오톡 친구에게 카카오톡 메시지를 보내는 기능을 제공합니다.
-
-## API/Service
-### [Kakao API](https://developers.kakao.com/)
-### [Google Cloud Scheduler](https://cloud.google.com/scheduler/docs)
-### [Cloud Run Functions](https://cloud.google.com/functions)
+- [ffmpeg-kti](https://github.com/arthenica/ffmpeg-kit): 비디오, 오디오 및 기타 멀티미디어 파일과 스트림을 처리하기 위한 라이브러리와 프로그램 모음 입니다.
