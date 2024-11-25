@@ -13,7 +13,7 @@
 - 스크래핑 한 데이터 엑셀 데이터로 추출
 
 ## 스크린샷
-![스크린샷]()
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/nihs_Crawler/image/screenshot.png)
 
 ## 라이브러리
 - BeautifulSoup: 인터넷 문서의 구조에서 명확한 데이터를 추출하고 처리하는 라이브러리 입니다.
