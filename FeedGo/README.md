@@ -1,5 +1,5 @@
 ## FeedGo
-![앱 로고]()
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/FeedGo/image/logo.png' height="120" />
 
 기존에 제작된 SNS앱의 기능 추가/수정 작업을 진행하였습니다.
 
@@ -26,7 +26,7 @@
 - 게시물 조회수 기능 추가  
 
 ## 스크린샷
-![스크린샷]()
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/FeedGo/image/screenshot.png)
 
 
 ## API/Service
