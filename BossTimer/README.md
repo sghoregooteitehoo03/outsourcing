@@ -1,5 +1,5 @@
 ## BossTimer
-<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/BossTimer/image/icon.png' height="120"/>
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/BossTimer/image/icon.png' height="120" />
 
 RPG 게임의 몬스터가 재생성 되는 시간을 설정하고 알림으로 알려주는 앱 제작을 진행하였습니다.
 
