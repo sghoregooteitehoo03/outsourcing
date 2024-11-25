@@ -28,11 +28,11 @@
 
 ## 스크린샷
 ### [사용자] ###
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot1.png)  
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot_1.png)  
 
 
 ### [관리자] ###
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot2.png)
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot_2.png)
 
 
 ## 아키텍쳐 및 라이브러리
