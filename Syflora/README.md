@@ -1,5 +1,5 @@
 ## Syflora
-![앱 로고]()
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/logo.jpg' height="120" />
 
 관리자가 관리하는 꽃을 미리 사전주문 및 구매 하는 앱 제작을 진행하였습니다.
 
@@ -27,7 +27,13 @@
 - 상품을 추가하고 관리하는 기능
 
 ## 스크린샷
-![스크린샷]()
+### [사용자] ###
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot1.png)  
+
+
+### [관리자] ###
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot2.png)
+
 
 ## 아키텍쳐 및 라이브러리
 - 아키텍처
