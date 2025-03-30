@@ -1,5 +1,5 @@
 ## 오늘도 좋은글
-<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/logo.jpg' height="120" />
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/%EC%A2%8B%EC%9D%80%EA%B8%80%EC%93%B0%EA%B8%B0/image/logo2.png' height="120" />
 
 사용자들에게 다양한 좋은 글귀, 동영상, 문서양식 등을 공유하는 앱을 제작하였습니다.
 
