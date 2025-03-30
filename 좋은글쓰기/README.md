@@ -1,10 +1,13 @@
-## Syflora
+## 오늘도 좋은글
 <img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/logo.jpg' height="120" />
 
-관리자가 관리하는 꽃을 미리 사전주문 및 구매 하는 앱 제작을 진행하였습니다.
+사용자들에게 다양한 좋은 글귀, 동영상, 문서양식 등을 공유하는 앱을 제작하였습니다.
+
+## 다운로드
+<a href='https://play.google.com/store/apps/details?id=com.sg.sharearticle'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png' height="80"/></a>
 
 ## 작업 기간
-### 2024/09/07 ~ 2024/09/25
+### 2025/01/09 ~ 2025/01/31
 
 ## 기능
 **[사용자]**
