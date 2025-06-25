@@ -30,11 +30,19 @@
 
 ## 스크린샷
 ### [사용자] ###
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot_1.png)  
+(메인화면)
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/좋은글쓰기/image/1.png)  
+
+(게시글 화면)
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/좋은글쓰기/image/2.png)  
+
+(기타 기능)
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/좋은글쓰기/image/3.png)  
 
 
 ### [관리자] ###
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot_2.png)
+(게시글 관리 및 알림설정)
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/좋은글쓰기/image/4.png)  
 
 
 ## 아키텍쳐 및 라이브러리
