@@ -1,5 +1,5 @@
 ## JS ENG
-<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/logo.jpg' height="120" />
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/JSENG/image/logo.png' height="120" />
 
 업무내역 작성/관리 및 엑셀 변환 앱 제작을 진행하였습니다.
 
@@ -15,7 +15,7 @@
 
 
 ## 스크린샷
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot_1.png)  
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/JSENG/image/image_1.png)  
 
 
 ## 아키텍쳐 및 라이브러리
