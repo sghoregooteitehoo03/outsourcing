@@ -36,33 +36,33 @@
 
 ## 스크린샷
 ### [사용자] ###
-**(로그인)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_1.png)
+**(로그인)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_1.png' height="600" />
 
-**(발주 요청)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_2.png)
+**(발주 요청)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_2.png' height="600" />
 
-**(발주 확인)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_3.png)
+**(발주 확인)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_3.png' height="600" />
 
-**(알림/공지사항)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_4.png)
+**(알림/공지사항)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_4.png' height="600" />
 
 ### [관리자] ###
-**(발주 확인)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_5.png)
+**(발주 확인)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_5.png' height="600" />
 
-**(명세서 전송)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_6.png)
+**(명세서 전송)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_6.png' height="600" />
 
-**(점원 관리)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_7.png)
+**(점원 관리)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_7.png' height="600" />
 
-**(상품 관리)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_8.png)
+**(상품 관리)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_8.png' height="600" />
 
-**(공지사항)**
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_9.png)
+**(공지사항)**  
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_9.png' height="600" />
 
 ## 아키텍쳐 및 라이브러리
 - 아키텍처
