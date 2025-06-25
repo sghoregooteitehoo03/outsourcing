@@ -1,5 +1,5 @@
 ## 와이오코리아
-<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/logo.jpg' height="120" />
+<img src='https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/logo.jpg' height="120" />
 
 음식점 별 상품을 발주 및 발주 상태 조회/관리하는 앱 제작을 진행하였습니다.
 
@@ -37,32 +37,32 @@
 ## 스크린샷
 ### [사용자] ###
 **(로그인)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_1.png)
 
 **(발주 요청)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_2.png)
 
 **(발주 확인)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_3.png)
 
 **(알림/공지사항)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_4.png)
 
 ### [관리자] ###
 **(발주 확인)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_5.png)
 
 **(명세서 전송)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_6.png)
 
 **(점원 관리)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_7.png)
 
 **(상품 관리)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_8.png)
 
 **(공지사항)**
-
+![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/YO_KOREA/image/image_9.png)
 
 ## 아키텍쳐 및 라이브러리
 - 아키텍처
