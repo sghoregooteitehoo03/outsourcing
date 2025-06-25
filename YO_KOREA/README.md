@@ -36,11 +36,32 @@
 
 ## 스크린샷
 ### [사용자] ###
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot_1.png)  
+**(로그인)**
+
+
+**(발주 요청)**
+
+
+**(발주 확인)**
+
+
+**(알림/공지사항)**
 
 
 ### [관리자] ###
-![스크린샷](https://github.com/sghoregooteitehoo03/outsourcing/blob/main/Syflora/image/screenshot_2.png)
+**(발주 확인)**
+
+
+**(명세서 전송)**
+
+
+**(점원 관리)**
+
+
+**(상품 관리)**
+
+
+**(공지사항)**
 
 
 ## 아키텍쳐 및 라이브러리
