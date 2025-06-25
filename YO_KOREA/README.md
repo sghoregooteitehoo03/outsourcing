@@ -49,9 +49,9 @@
    - [App Architecture 패턴](https://developer.android.com/topic/architecture/intro): (UI Layer - Domain Layer - Data Layer)
      
 - Jetpack
+  - DataStore: Key-Value 형식으로 비동기적으로 데이터 저장을 수행합니다.
   - ViewModel: UI의 상태값을 관리하며 UI의 이벤트들을 처리합니다.
   - Paging3: 로컬 데이터베이스나 네트워크에서 가져온 데이터를 페이징하여 데이터를 처리합니다.
-  - Room: SQL 기능을 이용하여 앱 내 데이터베이스를 이용합니다.
   - Navigation: 화면 구성 및 화면전환에 관련된 다양한 기능을 제공합니다.
   - Compose: 기존의 XML레이아웃을 이용하지 않고, Kotlin 코드를 통해 UI 화면을 제작합니다.
   - [Hilt](https://dagger.dev/hilt/): 의존성 주입을 통해 보일러플레이트 코드를 줄여줍니다.
@@ -61,7 +61,3 @@
   - Firebase Storage: 이미지/동영상을 저장 관리하도록 도와주는 저장소 입니다.
   - Firebase Cloud Messaging: 메시지를 안정적으로 무료 전송할 수 있는 크로스 플랫폼 메시징 솔루션입니다.
   - Firebase Functions: 사용자의 요청에 따른 백엔드 동작을 수행합니다.
-
-- Coil: 네트워크로부터 이미지를 로드합니다.
-
-- [ffmpeg-kti](https://github.com/arthenica/ffmpeg-kit): 비디오, 오디오 및 기타 멀티미디어 파일과 스트림을 처리하기 위한 라이브러리와 프로그램 모음 입니다.
